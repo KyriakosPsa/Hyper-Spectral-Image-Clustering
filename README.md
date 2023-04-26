@@ -10,6 +10,6 @@ This analysis aims to evaluate the effectiveness of various clustering algorithm
 - Hierarchical algorithms:
     - Complete-link
     - WPGMC
-    - Ward),
+    - Ward
 
 The Matlab code along with the exported pdf are provided. 
