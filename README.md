@@ -7,9 +7,9 @@ This analysis aims to evaluate the effectiveness of various clustering algorithm
   - Fuzzy c-means
   - Possibilistic c-means
   - Probabilistic clustering(Gaussian Mixture Models)
- - Hierarchical algorithms:
-  - Complete-link
-  - WPGMC
-  - Ward),
+- Hierarchical algorithms:
+    - Complete-link
+    - WPGMC
+    - Ward),
 
 The Matlab code along with the exported pdf are provided. 
